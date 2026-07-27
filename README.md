@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushhhhhSingh/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
